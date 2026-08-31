@@ -1,0 +1,4 @@
+pandas
+numpy
+qdrant_client
+sentence_transformers
