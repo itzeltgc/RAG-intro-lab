@@ -16,4 +16,3 @@ def prepare_data(file_path):
     new_records = df_clean.to_dict('records')
 
     return new_records
-

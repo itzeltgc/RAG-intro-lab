@@ -1,3 +1,10 @@
+
+# virtual environments
 rag_intro/
+
+# macOS systems files
 .DS_Store
-__pycache__/
+
+# cache 
+**/__pycache__/
+*.pyc 
